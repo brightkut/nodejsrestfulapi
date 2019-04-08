@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "athit",
+      "password": "password",
+      "occupation": "teacher",
+      "id": 1
+    },
+    {
+      "name": "surasit",
+      "password": "1234",
+      "occupation": "police",
+      "id": 2
+    },
+    {
+      "name": "nattakan",
+      "password": "4567",
+      "occupation": "doctor",
+      "id": 3
+    },
+    {
+      "name": "boy",
+      "password": "fff",
+      "occupation": "student",
+      "id": 4
+    }
+  ]
+}
